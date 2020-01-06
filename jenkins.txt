@@ -1,6 +1,5 @@
 Jenkins with github using webhook relay:
 
-
 Links:
 
 relay login -k 56ec2e8a-bb61-4bb8-9568-aa40ab40d499 -s ZyOuZSMiNGRc
